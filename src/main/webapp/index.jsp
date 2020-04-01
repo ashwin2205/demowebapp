@@ -10,8 +10,8 @@
      <h1 class="text-center">Welcome to</h1>
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h1 class="text-center">HI hello how are you doing</h1>
-      <h2 class="text-center">this is ashwin here,welcome to jenkins</h2>
+      <h1 class="text-center">HELLO VANI HOW ARE YOU MY LOVE</h1>
+      <h2 class="text-center">Welcome Home soon</h2>
       
 <center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
  </center> </div>
